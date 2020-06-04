@@ -12,7 +12,7 @@ Python 3.x
 
 # 使い方
 
-1. `yahoo_root_ca.p7b`のようなCA証明書を`input.txt`にリネームする
+1. `SCRoot2ca.cer`のようなCA証明書を`input.txt`にリネームする
 1. `python main.py`を実行する
 1. `output.txt`に、C言語の配列になったやつが生成される
 
